@@ -1,5 +1,8 @@
 _repo: The-Little-French-Girl_65386
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65386-h/images/cover.jpg
 creator:
   author:
     agent_name: Sedgwick, Anne Douglas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2634
     wikipedia: https://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65386#The-Little-French-Girl
 gutenberg_issued: '2021-05-19'
 gutenberg_type: Text
 identifiers:
